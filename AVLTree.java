@@ -1,4 +1,3 @@
-//Name: Kim Kestenboum, username: kimk, id: 315532226, Name: Roni Hamri, username: ronihamri, id: 313373599
 /**
  *
  * AVLTree
