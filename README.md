@@ -1,3 +1,2 @@
 # avl-tree-project
-Avl Tree project givan in data structures course
-We had to code different functions of AVL trees
+This is a Java implementation of an AVL tree data stucture.
